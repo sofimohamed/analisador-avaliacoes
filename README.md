@@ -48,7 +48,6 @@ Também implementei um tratamento para quando a API apresenta erro 503. Nesse ca
 - Como proteger a chave da API usando um arquivo `.env` e o `.gitignore`, para que ela nunca vá para o GitHub.
 - Como usar um ambiente virtual (`.venv`) para isolar as bibliotecas do projeto.
 - Como lidar com erros do servidor usando `try` e `except`, tentando de novo automaticamente.
-- Como versionar o projeto com Git e publicá-lo no GitHub.
 
 ## Próximos passos
 
